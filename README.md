@@ -8,7 +8,7 @@
 
 #### 1. ¿Quien soy ?
 
-> Hola, como ya me he presentado antes soy _David luque Carmonona_ con DNI 244959*** tengo 20 años y soy de Aguilar de la frontera pero por trabajo de mis padres ahora vivo en un cortijo que pertenece a tres  pueblos que son Villa del rio, Montoro y Lopera. Esto sucede porque no hay termino en Villa del río, ademas la viviendas en Villa del rio estan caras pero caras como en Córdoba mas o menos. [:)][ubi]
+> Hola, como ya me he presentado antes soy _David luque Carmonona_ tengo **20 años** y soy de Aguilar de la frontera pero por trabajo de mis padres ahora vivo en un cortijo que pertenece a tres  pueblos que son Villa del rio, Montoro y Lopera. Esto sucede porque no hay termino en Villa del río, ademas la viviendas en Villa del rio estan caras pero caras como en Córdoba mas o menos. [:)][ubi]
 #### 2. Estudios realizados 
 
 >  * Formación Profesional Basica en informatica
@@ -33,4 +33,12 @@
 
  [ubi]:https://maps.app.goo.gl/E5jg8rxDvD3g5sAn6
 
- 
+Desplegable 
+
+Mi cantantes favoritos son:
+
+| Rosalia | Judeline | Bad Bunny |
+|---------|----------|-----------|
+| Quevedo | Travis scott |       |
+
+
