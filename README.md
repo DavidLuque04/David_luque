@@ -3,7 +3,9 @@
 Hola, soy David Luque 
 
 
-<img style= 'aling-items: center;' src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+<div style="text-align: center;">
+  <img src="https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg" alt="Descripción de la imagen" style="border-radius: 15px;">
+</div>
 
 #### 1. ¿De donde soy?
 
