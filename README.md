@@ -4,7 +4,7 @@ Hola, soy David Luque
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg" alt="Descripción de la imagen" style="border-radius: 25px;">
+  <img style="border-radius: 25px;" src="https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg" alt="Descripción de la imagen" >
 </div>
 
 #### 1. ¿De donde soy?
