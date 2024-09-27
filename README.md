@@ -29,7 +29,7 @@ Sistemas operativos y Servicios en red porque porque me gusta dar servicios y cr
 
 #### 5. ¿Sistemas Operativos Favoritos?
   * Mi Favorito es linux por su termial que me encata moverme por hay ya que se me hace mucho mas comodo
-  * Windows 11 por su nuevo formato redondeado. No me gusta nada que eso tenga que consumir muchos recurso ha ver si aprende los de Microsoft un poco de APPLE que con 8GB de Ram le sobran
+  * Windows 11 por su nuevo formato redondeado. No me gusta nada que eso tenga que consumir muchos recurso haber si aprende los de Microsoft un poco de APPLE que con 8GB de Ram le sobran
 
 
 
