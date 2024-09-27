@@ -25,20 +25,25 @@
 > Sistemas operativos y Servicios en red porque porque me gusta dar servicios y crear los servicios en linux y sitemas porque me gusta tener el control sobre el sistema y me gusta saber como funciona el sistema Operativo 
 
 #### 5. ¿Sistemas Operativos Favoritos?
->  * Mi Favorito es linux por su termial que me encata moverme por hay ya que se me hace mucho mas comodo
->  * Windows 11 por su nuevo formato redondeado. No me gusta nada que eso tenga que consumir muchos recurso haber si aprende los de Microsoft un poco de APPLE que con 8GB de Ram le sobran
+>  * ![Logo][LogoL]Mi Favorito es linux por su termial que me encata moverme por hay ya que se me hace mucho mas comodo
+>  *  ![Logo][LogoW]Windows 11 por su nuevo formato redondeado. No me gusta nada que eso tenga que consumir muchos recurso haber si aprende los de Microsoft un poco de APPLE que con 8GB de Ram le sobran 
 
 
 
-
- [ubi]:https://maps.app.goo.gl/E5jg8rxDvD3g5sAn6
+[LogoW]: 
+[LogoL]: [ubi]:https://maps.app.goo.gl/E5jg8rxDvD3g5sAn6
 
 Desplegable 
 
-Mi cantantes favoritos son:
+Mi _**cantantes favoritos**_ son:
 
 | Rosalia | Judeline | Bad Bunny |
-|---------|----------|-----------|
-| Quevedo | Travis scott |       |
+|---------|----------|-----------------|
+| Quevedo | Travis scott | Danny Ocean |
 
+Mi _**Youtuber favoritos**_ son:
+
+|vIbai Llanos|  Vegetta777 |           |
+|---------|--------------|-------------|
+|         |   WillyRex   |             |
 
