@@ -2,7 +2,7 @@
 
 Hola, soy David Luque
 
- <img src="https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg" width="300"  align="center" border-radius="25px" />
+ <img src="https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg" width="300"  align-items="center" border-radius="25px" />
 
 #### 1. ¿De donde soy?
 
