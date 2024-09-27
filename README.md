@@ -2,11 +2,8 @@
 
 Hola, soy David Luque 
 
-<div>
-<p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
-</p>
-</div>
+
+<img style= 'aling-item: center;' src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
 
 #### 1. ¿De donde soy?
 
