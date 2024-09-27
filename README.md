@@ -1,6 +1,6 @@
 # WHOISME
 
-Hola, soy David Luque estudio
+Hola, soy David Luque 
 
 ![mi cara](David_luque\Imagen de WhatsApp 2024-07-15 a las 18.59.45_993aaaa1.jpg)
 
@@ -11,9 +11,10 @@ Soy de un pueblo de Córdoba que Aguilar de la frontera pero por circuntacias de
 2. Estudios realizados 
 
   Este tema es un poco complicado pero voy al grano:
-  1. Formación Profesional Basica en informatica
-  2. Grado Medio en Sistemas microinformaticos y redes
-  3. Estudiante de 1º de asir
+
+  * Formación Profesional Basica en informatica
+  * Grado Medio en Sistemas microinformaticos y redes
+  * Estudiante de 1º de asir
 
 4. Futuros estudios a realizar 
   * Acabar el grado superior en sistemas informaticos en red
