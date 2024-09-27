@@ -3,7 +3,7 @@
 Hola, soy David Luque 
 
 
-<img style= 'aling-item: center;' src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+<img style= 'aling-items: center;' src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
 
 #### 1. ¿De donde soy?
 
