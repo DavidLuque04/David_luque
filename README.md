@@ -11,11 +11,11 @@ Soy de un pueblo de Córdoba que Aguilar de la frontera pero por circuntacias de
 2. Estudios realizados 
 
 >Este tema es un poco complicado pero voy al grano:
-  1. Formación Profesional Basica en informatica 
-  2. Grado Medio en Sistemas microinformaticos y redes 
+  1. Formación Profesional Basica en informatica
+  2. Grado Medio en Sistemas microinformaticos y redes
   3. Estudiante de 1º de asir
 
-3. Futuros estudios a realizar 
+4. Futuros estudios a realizar 
 
   1. Acabar el grado superior en sistemas informaticos en red 
   2. Hacer las especialización en ciberseguridad 
