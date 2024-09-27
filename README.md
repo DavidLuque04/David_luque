@@ -1,8 +1,11 @@
 # WHOISME
 
-| Hola, soy David Luque | Hola |
+Hola, soy David Luque
 
-!(mi cara)[https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg ]
+<div class="pull-left">
+ <img src="https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg" width="300"  align="center"  />
+</div>
+
 #### 1. ¿De donde soy?
 
 Soy de un pueblo de Córdoba que Aguilar de la frontera pero por circuntacias de la vida ahora vivo en villa del rio, bueno no en el mismo pueblo vivo como a 10 min del pueblo ya que vivo en un cortijo. 
