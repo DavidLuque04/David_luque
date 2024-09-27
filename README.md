@@ -2,7 +2,7 @@
 
 Hola, soy David Luque 
 
-![mi cara](David_luque\Imagen de WhatsApp 2024-07-15 a las 18.59.45_993aaaa1.jpg)
+![mi cara](https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg)
 
 #### 1. ¿De donde soy?
 
