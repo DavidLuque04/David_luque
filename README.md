@@ -47,8 +47,10 @@
 
 Mi _**cantantes favoritos**_ son:
 
-| ![Rosalia][Rosalia] | ![Judeline][Judeline] | ![Bad Bunny][BadBunny] |
+|  [Rosalia](https://open.spotify.com/intl-es/artist/7ltDVBr6mKbRvohxheJ9h1?si=oVxnjbkVQMuseAlIDeIwgg) | [Judeline](https://open.spotify.com/intl-es/artist/1H6X7yhnXZg73f9bssaj1Q?si=g87JARp8TQiyzKHoZTCZBg) | [Bad Bunny](https://open.spotify.com/intl-es/artist/4q3ewBCX7sLwd24euuV69X?si=eTyJAa97S92PoXZAcEloqw) |
 |---------|----------|-----------------|
+| ![Rosalia][Rosalia] | ![Judeline][Judeline] | ![Bad Bunny][BadBunny] |
+|  Quevedo |  [Travis Scott](https://open.spotify.com/intl-es/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=Fkbqrwa7S6uAQEjsylGXtw) |  Danny Ocean |
 | ![Quevedo][Quevedo] | ![Travis scott][Travisscott] | ![Danny Ocean][Danny] |
 
 [Rosalia]: https://static1.ara.cat/clip/ed7e524c-669f-49b0-8c28-73eb8f408ae7_16-9-aspect-ratio_default_0_x1763y1094.jpg
