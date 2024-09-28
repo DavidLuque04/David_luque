@@ -67,22 +67,14 @@ Mi _**cantantes favoritos**_ son:
 
 Mi _**Youtuber favoritos**_ son:
 
-| Ibai Llanos | Vegetta777 | Tecnonautas |
-| Ibai Llanos | Vegetta777 | Tecnonautas |
-|---------|----------------|------------|
-| Nate gentile | WillyRex | MoureDev   |
-| Ibai Llanos | Vegetta777 |<a href='https://youtu.be/c8gvP-Ci4KU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c8gvP-Ci4KU/mqdefault.jpg' alt='La PEOR OFERTA de Trabajo para Programadores y Desarrolladores' />
-</a>|
-
-<a href='https://youtu.be/c8gvP-Ci4KU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c8gvP-Ci4KU/mqdefault.jpg' alt='La PEOR OFERTA de Trabajo para Programadores y Desarrolladores' />
+<a href='https://www.youtube.com/@Tecnonauta' target='_blank'>
+  <img width='30%' src='https://yt3.googleusercontent.com/ytc/AIdro_lMK2MNdC3iWEdsaGshHxrpazF_D8PuvzbbIkRYG7Dpgeg=s900-c-k-c0x00ffffff-no-rj' alt='Tecnonauta' />
 </a>
-<a href='https://youtu.be/ibImaPy9Yck' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ibImaPy9Yck/mqdefault.jpg' alt='El Drama BRUTAL en Vercel (cambio de pricing)' />
+<a href='https://www.youtube.com/channel/UCaY_-ksFSQtTGk0y1HA_3YQ' target='_blank'>
+  <img width='30%'  src='https://yt3.googleusercontent.com/pk-jnYnbdNBUKEtBdc3buYbCM0Xu0_TDcVfYON1qAez3CVPbA-FWGyCbF4BaRF1T9MqxjG-mugk=s160-c-k-c0x00ffffff-no-rj' alt='Ibai LLanos' />
 </a>
-<a href='https://youtu.be/jdbJDPKLupo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jdbJDPKLupo/mqdefault.jpg' alt='Este es el mejor cambio de JavaScript jamás creado' />
+<a href='https://www.youtube.com/user/vegetta777' target='_blank'>
+  <img width='30%' src='https://static.wikia.nocookie.net/karmaland/images/9/94/VEGETTA777.jpg/revision/latest?cb=20220912024105&path-prefix=es' alt='Vegetta777' />
 </a>
 
 </details>
