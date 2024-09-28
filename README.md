@@ -51,7 +51,7 @@ Mi _**cantantes favoritos**_ son:
 |---------|----------|-----------------|
 | Quevedo | Travis scott | Danny Ocean |
 
-[Rosalia]: https://open.spotify.com/intl-es/artist/7ltDVBr6mKbRvohxheJ9h1?si=Zz19r0XvTtmR5ijkqbjs3A
+[Rosalia]: https://www.youtube.com/@rosalia
 
 Mi _**Youtuber favoritos**_ son:
 
