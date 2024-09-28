@@ -47,9 +47,11 @@
 
 Mi _**cantantes favoritos**_ son:
 
-| Rosalia | Judeline | Bad Bunny |
+| ![Rosalia][Rosalia] | Judeline | Bad Bunny |
 |---------|----------|-----------------|
 | Quevedo | Travis scott | Danny Ocean |
+
+[Rosalia]: https://open.spotify.com/intl-es/artist/7ltDVBr6mKbRvohxheJ9h1?si=Zz19r0XvTtmR5ijkqbjs3A
 
 Mi _**Youtuber favoritos**_ son:
 
