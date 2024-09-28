@@ -25,18 +25,25 @@
 > Sistemas operativos y Servicios en red porque porque me gusta dar servicios y crear los servicios en linux y sitemas porque me gusta tener el control sobre el sistema y me gusta saber como funciona el sistema Operativo 
 
 #### 5. ¿Sistemas Operativos Favoritos?
->  * ![Logo][LogoL]Mi Favorito es linux por su termial que me encata moverme por hay ya que se me hace mucho mas comodo
->  *  ![Logo][LogoW]Windows 11 por su nuevo formato redondeado. No me gusta nada que eso tenga que consumir muchos recurso haber si aprende los de Microsoft un poco de APPLE que con 8GB de Ram le sobran 
+>  * ![Logo][LogoL] Mi Favorito es [ _**UBUNTU**_](https://ubuntu.com/) por su termial que me encata moverme por hay ya que se me hace mucho mas comodo
+>  *  ![Logo][LogoW] [_**Windows 11**_](https://www.microsoft.com/es-es/windows/windows-11?r=1) por su nuevo formato redondeado. No me gusta nada que eso tenga que consumir muchos recurso haber si aprende los de Microsoft un poco de APPLE que con 8GB de Ram le sobran 
 
 
 
-[LogoW]: 
+[LogoW]: https://github.com/DavidLuque04/David_luque/blob/main/Logo%20Windows.png 
 
- <a href="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux.png"></a>
+[LogoL]:https://github.com/DavidLuque04/David_luque/blob/main/png-clipart-linux-linux.png
 
 [ubi]: https://maps.app.goo.gl/E5jg8rxDvD3g5sAn6
 
-Desplegable 
+
+<details> 
+
+<summary>
+
+## Leer mas
+
+</summary>
 
 Mi _**cantantes favoritos**_ son:
 
@@ -49,4 +56,9 @@ Mi _**Youtuber favoritos**_ son:
 | Ibai Llanos | Vegetta777 | Tecnonautas |
 |---------|----------------|------------|
 | Nate gentile | WillyRex | MoureDev   |
+
+
+</details>
+
+
 
