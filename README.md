@@ -45,15 +45,24 @@
 
 </summary>
 
-Mi _**cantantes favoritos**_ son:
+_**Cantantes Favoritos**_:
 
-| ![Rosalia][Rosalia] | Judeline | Bad Bunny |
+| ![Rosalia] | ![Judeline] | ![Bad Bunny] |
 |---------|----------|-----------------|
-| Quevedo | Travis scott | Danny Ocean |
+| ![Quevedo] | ![Travis scott] | ![Danny Ocean] |
 
-[Rosalia]: https://open.spotify.com/intl-es/artist/7ltDVBr6mKbRvohxheJ9h1?si=Zz19r0XvTtmR5ijkqbjs3A
+[Rosalia]: https://forbes.es/wp-content/uploads/2022/07/GettyImages-1409771436-1.jpg
 
-Mi _**Youtuber favoritos**_ son:
+[Judeline]:https://salaelsol.com/wp-content/uploads/2022/03/foto-promo.jpeg
+
+[Bad Bunny]:https://lh3.googleusercontent.com/XE2cp2mnVX1H1k8yX80VrnkYDJ4f53m2q9gflVkjdCeaOC75oAih0EEO5X4Xw_OGf1lRSg6rg1CfmA=w544-h544-p-l90-rj
+
+[Quevedo]: https://i.scdn.co/image/ab677762000056b8be62ba0b84d248a277d0c8b7
+
+[Travis scott]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZre_vrWWUlf2_mrGRc-GesuBP1JYo06TJwQ&s
+
+
+**Youtuber Favoritos**_:
 
 | Ibai Llanos | Vegetta777 | Tecnonautas |
 |---------|----------------|------------|
