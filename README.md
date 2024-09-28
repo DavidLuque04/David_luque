@@ -31,7 +31,10 @@
 
 
 [LogoW]: 
-[LogoL]: [ubi]:https://maps.app.goo.gl/E5jg8rxDvD3g5sAn6
+
+ <a href="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux.png"></a>
+
+[ubi]: https://maps.app.goo.gl/E5jg8rxDvD3g5sAn6
 
 Desplegable 
 
@@ -43,7 +46,7 @@ Mi _**cantantes favoritos**_ son:
 
 Mi _**Youtuber favoritos**_ son:
 
-|vIbai Llanos|  Vegetta777 |           |
-|---------|--------------|-------------|
-|         |   WillyRex   |             |
+| Ibai Llanos | Vegetta777 | Tecnonautas |
+|---------|----------------|------------|
+| Nate gentile | WillyRex | MoureDev   |
 
