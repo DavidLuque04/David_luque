@@ -76,7 +76,16 @@ Mi _**Youtuber favoritos**_ son:
 <a href='https://www.youtube.com/user/vegetta777' target='_blank'>
   <img width='30%' src='https://static.wikia.nocookie.net/karmaland/images/9/94/VEGETTA777.jpg/revision/latest?cb=20220912024105&path-prefix=es' alt='Vegetta777' />
 </a>
-
+<a href='https://www.youtube.com/@Willyrex' target='_blank'>
+  <img width='30%' src='' alt='Willyrex' />
+</a>
+<a href='https://www.youtube.com/@mouredev' target='_blank'>
+  <img width='30%'  src='' alt='MoureDev' />
+</a>
+<a href='https://www.youtube.com/@midulive' target='_blank'>
+  <img width='30%' src='' alt='Midulive'/>
+</a>
+   
 </details>
 
 
