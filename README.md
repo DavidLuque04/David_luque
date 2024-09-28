@@ -68,9 +68,22 @@ Mi _**cantantes favoritos**_ son:
 Mi _**Youtuber favoritos**_ son:
 
 | Ibai Llanos | Vegetta777 | Tecnonautas |
+| Ibai Llanos | Vegetta777 | Tecnonautas |
 |---------|----------------|------------|
 | Nate gentile | WillyRex | MoureDev   |
+| Ibai Llanos | Vegetta777 |<a href='https://youtu.be/c8gvP-Ci4KU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/c8gvP-Ci4KU/mqdefault.jpg' alt='La PEOR OFERTA de Trabajo para Programadores y Desarrolladores' />
+</a>|
 
+<a href='https://youtu.be/c8gvP-Ci4KU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/c8gvP-Ci4KU/mqdefault.jpg' alt='La PEOR OFERTA de Trabajo para Programadores y Desarrolladores' />
+</a>
+<a href='https://youtu.be/ibImaPy9Yck' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ibImaPy9Yck/mqdefault.jpg' alt='El Drama BRUTAL en Vercel (cambio de pricing)' />
+</a>
+<a href='https://youtu.be/jdbJDPKLupo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jdbJDPKLupo/mqdefault.jpg' alt='Este es el mejor cambio de JavaScript jamás creado' />
+</a>
 
 </details>
 
