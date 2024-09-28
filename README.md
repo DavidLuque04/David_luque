@@ -77,15 +77,15 @@ Mi _**Youtuber favoritos**_ son:
   <img width='30%' src='https://static.wikia.nocookie.net/karmaland/images/9/94/VEGETTA777.jpg/revision/latest?cb=20220912024105&path-prefix=es' alt='Vegetta777' />
 </a>
 <a href='https://www.youtube.com/@Willyrex' target='_blank'>
-  <img width='30%' src='' alt='Willyrex' />
+  <img width='30%' src='https://pbs.twimg.com/media/DjtbaunWwAIrqD8.jpg' alt='Willyrex' />
 </a>
 <a href='https://www.youtube.com/@mouredev' target='_blank'>
-  <img width='30%'  src='' alt='MoureDev' />
+  <img width='30%'  src='https://yt3.googleusercontent.com/BrHvTVuz3HnKJx656FpXzm_B8il50fI281AC0PtrE7RgHazzPqmUudw7yUzqmnuFsaCp6YkTEQ=s900-c-k-c0x00ffffff-no-rj' alt='MoureDev' />
 </a>
 <a href='https://www.youtube.com/@midulive' target='_blank'>
-  <img width='30%' src='' alt='Midulive'/>
+  <img width='30%' src='https://yt3.googleusercontent.com/2M4WpEKIJkVbLcp0_WT1fICBre9SxHJQ7x7YjGFsWC_xu81sPMORY9GT3Y-akEB4mpRgyvWwsA=s900-c-k-c0x00ffffff-no-rj' alt='Midulive'/>
 </a>
-   
+  
 </details>
 
 
