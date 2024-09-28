@@ -47,13 +47,21 @@
 
 Mi _**cantantes favoritos**_ son:
 
-| ![Rosalia][Rosalia] | Judeline | Bad Bunny |
+| ![Rosalia][Rosalia] | ![Judeline][Judeline] | ![Bad Bunny][BadBunny] |
 |---------|----------|-----------------|
-| Quevedo | ![Travis scott][Travisscott] | Danny Ocean |
+| ![Quevedo][Quevedo] | ![Travis scott][Travisscott] | ![Danny Ocean][Danny] |
 
-[Rosalia]: 
+[Rosalia]: https://static1.ara.cat/clip/ed7e524c-669f-49b0-8c28-73eb8f408ae7_16-9-aspect-ratio_default_0_x1763y1094.jpg
+ 
+[Judeline]: https://salaelsol.com/wp-content/uploads/2022/03/foto-promo-240x300.jpeg
 
-[Travisscott]:https://media.revistagq.com/photos/616981dc219207ace1a59cb7/16:9/w_2560%2Cc_limit/GettyImages-1340159187.jpg
+[BadBunny]: https://lumiere-a.akamaihd.net/v1/images/bad_bunny_2_0f0c9427.jpeg?region=0,0,1280,720&width=960
+
+[Quevedo]: https://estaticosgn-cdn.deia.eus/clip/dafc7d23-be59-406f-8f6f-aef85194caa0_16-9-discover-aspect-ratio_default_1010307.jpg
+
+[Travisscott]: https://media.revistagq.com/photos/616981dc219207ace1a59cb7/16:9/w_2560%2Cc_limit/GettyImages-1340159187.jpg
+
+[Danny]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2o4dUIjBsdZSSBEQGhSRBInMo2nRDXW0VA&s
 
 Mi _**Youtuber favoritos**_ son:
 
