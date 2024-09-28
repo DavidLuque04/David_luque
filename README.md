@@ -92,13 +92,13 @@ Mi _**Youtuber favoritos**_ son:
 
 </a>
 <a href='https://www.instagram.com/nategentile7/' target='_blank'>
-  <img width='15px' src='https://img.icons8.com/win10/200/FFFFFF/instagram-new.png' alt='Instagram' />
+  <img width='40px' src='https://img.icons8.com/win10/200/FFFFFF/instagram-new.png' alt='Instagram' />
 </a>
 <a href='https://open.spotify.com/user/l5xn3kq4r2v58vbyd6q6eqsmn?si=84cb77062da04a6f' target='_blank'>
-  <img width='15px'  src='https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png' alt='Spotify' />
+  <img width='40px'  src='https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png' alt='Spotify' />
 </a>
-<a href='https://e7.pngegg.com/pngimages/545/550/png-clipart-tik-tok-icon-circle-tech-companies.png' target='_blank'>
-  <img width='15px' src='https://www.tiktok.com/@khamoo.andthegang/video/7396149496478027014' alt='Tiktok'/>
+<a href='https://www.tiktok.com/@khamoo.andthegang/video/7396149496478027014?is_from_webapp=1&sender_device=pc&web_id=7341854660338681377' target='_blank'>
+  <img width='40px' src='https://i.pinimg.com/originals/69/50/5f/69505fac2e3f272646db6cf81547d4c2.png' alt='Tiktok'/>
 </a>
 
 
