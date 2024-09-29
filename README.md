@@ -1,34 +1,34 @@
 # WHOISME
 
-<p> Hola, soy David Luque alumno de 1º de ASIR. A continnuación contare datos que me parece guay. 😎</p>
+<p> Hola, soy David Luque alumno de 1º de ASIR. A continuación contaré datos que me parece guay. 😎</p>
 
 <div align="center";  >
  <img src="https://github.com/DavidLuque04/David_luque/blob/main/Imagen%20de%20WhatsApp%202024-07-15%20a%20las%2018.59.45_993aaaa1.jpg" width="300";  />
 </div>
 
-#### 1. ¿Quien soy ?
+#### 1. ¿Quién soy ?
 
-> Hola, como ya me he presentado antes soy _David luque Carmonona_ tengo **20 años** y soy de Aguilar de la frontera pero por trabajo de mis padres ahora vivo en un cortijo que pertenece a tres pueblos: que son Villa del Río, Montoro y Lopera. Esto sucede porque no hay término en Villa del Río, ademas la viviendas en Villa del rio estan caras pero caras como en Córdoba, más o menos. [:)][ubi]
+> Hola, como ya me he presentado antes soy _David Luque Carmonona_ tengo **20 años** y soy de Aguilar de la Frontera pero por trabajo de mis padres ahora vivo en un cortijo que pertenece a tres pueblos: que son Villa del Río, Montoro y Lopera. Esto sucede porque no hay término municipal en Villa del Río. [:)][ubi]
 #### 2. Estudios realizados 
 
 >  * Formación Profesional Básica en informática
->  * Grado Medio en Sistemas microinformáticos y Redes
+>  * Grado Medio en Sistemas Microinformáticos y Redes
 
 
 #### 3. Futuros estudios a realizar 
->  * 2º sistemas informaticos en red
->  * Especialización en ciberseguridad
+>  * 2º Sistemas Informaticos en Red
+>  * Especialización en Ciberseguridad
 
 > [!CAUTION]
-> Sacarme el **B2** de Inglés
+> Sacarme el **B2** de inglés
 
 #### 4. Asignaturas Favoritas del Grado Medio 
  
-> Sistemas operativos y Servicios en red porque me gusta dar servicios y crear los servicios en linux y sitemas, porque me gusta tener el control sobre el sistema y me gusta saber como funciona los Sistema Operativo 
+> Sistemas operativos y Servicios en red porque me gusta dar servicios y crear los servicios en Linux y Sistemas Operativos, porque me gusta tener el control sobre el sistema y me gusta saber como funciona los Sistemaa Operativos
 
 #### 5. ¿Sistemas Operativos Favoritos?
->  * ![Logo][LogoL] Mi Favorito es [ _**UBUNTU**_](https://ubuntu.com/) por su termial, que me encata moverme por haí, ya que se me hace mucho más comodo.
->  *  ![Logo][LogoW] [_**Windows 11**_](https://www.microsoft.com/es-es/windows/windows-11?r=1): por su nuevo formato redondeado. No me gusta nada que  tenga que consumir muchos recurso haber si aprende los de Microsoft un poco de Apple, que con 8GB de Ram le sobran 
+>  * ![Logo][LogoL] Mi Favorito es [ _**UBUNTU**_](https://ubuntu.com/) por su termial, que me encanta moverme por ahí, ya que se me hace mucho más comodo.
+>  *  ![Logo][LogoW] [_**Windows 11**_](https://www.microsoft.com/es-es/windows/windows-11?r=1): por su nuevo formato redondeado. No me gusta nada que  tenga que consumir muchos recurso haber si aprende los de Microsoft un poco de Apple, que con 8 GB de RAM le sobran 
 
 
 
